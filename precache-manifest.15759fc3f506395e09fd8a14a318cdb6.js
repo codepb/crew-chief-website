@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b164196523dc13179fd865164d0f82f6",
+    "revision": "5e43c40214f750a1951be6a9841b3178",
     "url": "/crew-chief-website/index.html"
   },
   {
-    "revision": "28cfac202589c2f1a591",
+    "revision": "05ed658fdf3c30de6491",
     "url": "/crew-chief-website/static/css/2.e2bd553d.chunk.css"
   },
   {
-    "revision": "5b8b516b80df7d96c87c",
+    "revision": "f50c81d4e69527c45638",
     "url": "/crew-chief-website/static/css/main.ce9bd222.chunk.css"
   },
   {
-    "revision": "28cfac202589c2f1a591",
-    "url": "/crew-chief-website/static/js/2.010a7d79.chunk.js"
+    "revision": "05ed658fdf3c30de6491",
+    "url": "/crew-chief-website/static/js/2.b47bb5e8.chunk.js"
   },
   {
-    "revision": "5b8b516b80df7d96c87c",
-    "url": "/crew-chief-website/static/js/main.21603ddf.chunk.js"
+    "revision": "f50c81d4e69527c45638",
+    "url": "/crew-chief-website/static/js/main.44e530fc.chunk.js"
   },
   {
     "revision": "bfe7c7682e9600d08fe0",
     "url": "/crew-chief-website/static/js/runtime~main.69f0f0c5.js"
+  },
+  {
+    "revision": "3b2880ef81fbd65a4bfa67a5c77460b2",
+    "url": "/crew-chief-website/static/media/engineer_edited.3b2880ef.png"
   },
   {
     "revision": "987b84570ea69ee660455b8d5e91f5f1",
